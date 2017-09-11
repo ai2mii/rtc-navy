@@ -1,0 +1,29 @@
+.modal-content {
+	padding: 10px;
+	height: 500px;
+}
+
+.header-search {
+	text-align: center;
+}
+
+.body-search {
+	padding-left: 170px;
+}
+
+.search-text {
+	width: 200px;
+}
+
+.result-position {
+	margin: 0;
+	height: 280px;
+    overflow-y: scroll;
+    text-align: center;
+}
+
+.header-search-position {
+	border-bottom: 1px solid #000;
+    text-align: center;
+    margin: 0;
+}
